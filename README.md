@@ -1,4 +1,4 @@
-# DeepSeek Chatbot
+# meta-llama Chatbot
 
 A Node.js chatbot application using the meta-llama model from Hugging Face.
 
